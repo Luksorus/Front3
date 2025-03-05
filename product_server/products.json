@@ -1,0 +1,78 @@
+[
+  {
+    "id": 4,
+    "name": "Нау",
+    "price": 4000,
+    "description": "Беспроводные наушники с шумоподавлением.",
+    "categories": [
+      "Электроника",
+      "Аксессуары"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Футболка",
+    "price": 1500,
+    "description": "Хлопковая футболка с принтом.",
+    "categories": [
+      "Одежда"
+    ]
+  },
+  {
+    "name": "????? ?????",
+    "price": 999,
+    "description": "???????? ????????",
+    "categories": [
+      "????"
+    ],
+    "id": 6
+  },
+  {
+    "name": "sdafasdfas",
+    "price": 999,
+    "description": "sadffsad",
+    "categories": [
+      "sadfsadf",
+      "asdfasfdsa"
+    ],
+    "id": 8
+  },
+  {
+    "name": "dsgsdd",
+    "price": 1241,
+    "description": "wqet",
+    "categories": [
+      "wqetwe",
+      "weqtwqet"
+    ],
+    "id": 9
+  },
+  {
+    "name": "sadg",
+    "price": 12412,
+    "description": "sadfsa",
+    "categories": [
+      "waerwr"
+    ],
+    "id": 10
+  },
+  {
+    "name": "Книга",
+    "price": 15000,
+    "description": "ываф",
+    "categories": [
+      "Книга",
+      "ыфвпыфвпфыв"
+    ],
+    "id": 11
+  },
+  {
+    "name": "цупцеуй",
+    "price": 15125,
+    "description": "пвыфпфыв",
+    "categories": [
+      "ыфвпфпыв"
+    ],
+    "id": 12
+  }
+]
